@@ -49,9 +49,9 @@ I'm a CSE student from Bangladesh, passionate about competitive programming, sof
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahi-sadat&show_icons=true&theme=tokyonight&hide_border=true)
+![Rahi's GitHub Stats](https://ghstats.dev/api?username=rahi-sadat&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahi-sadat&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahi-sadat&theme=tokyonight&hide_border=true)
 
 ---
 
