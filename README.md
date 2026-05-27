@@ -1,101 +1,73 @@
-## Hi there 👋
-
-<!--
-**rahi-sadat/rahi-sadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # 👋 Hi, I'm Rahi Sadat Ruhan
 
-💡 Passionate about **Competitive Programming, Software Development, and AI**
-🎯 CSE Student from Bangladesh
+I'm a CSE student from Bangladesh, passionate about competitive programming, software development, and AI. I enjoy solving problems, building practical software, and continuously learning new technologies.
 
 ---
 
 ## 🧠 Skills
 
-### 🖥️ Programming Languages
-
+### Programming Languages
 `C` `C++` `Java` `Python`
 
-### 🌐 Web Development
+### Web Development
+`HTML` `CSS` `JavaScript` `PHP` `SQLite`
 
-`HTML` `CSS` `JavaScript` `Sqlite`
-
-### ⚙️ Tools & Technologies
-
-`JavaFX` `Logisim` `Verilog` `Git` `GitHub` `Pandas`  
+### Tools & Technologies
+`Git` `GitHub` `JavaFX` `Logisim` `Verilog` `Pandas`
 
 ---
 
 ## 🧩 Competitive Programming
 
-* 🔹 Codeforces: https://codeforces.com/profile/rahi088
-* 🔹 LeetCode: https://leetcode.com/u/rahi088/
+- Codeforces: [rahi088](https://codeforces.com/profile/rahi088)
+- LeetCode: [rahi088](https://leetcode.com/u/rahi088/)
 
 ---
 
 ## 📊 Competitive Programming Stats
 
+### Codeforces
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rahi088&theme=dark)
 
-### ⚡ Codeforces
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rahi088\&theme=dark)
-
-### 🧠 LeetCode
-
+### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rahi088?theme=dark)
-
 
 ---
 
 ## 📂 Projects
 
-🔹 **Hospital Management System**
+### Hospital Management System
+- Android application
+- Desktop application
+- Patient management and appointment system
 
-* Android App
-* Desktop Application
-* Patient management & appointment system
-
-🔹 **SGIPC Club Website** *(Ongoing)*
-
-* Built with HTML, CSS, JavaSript , PHP
+### SGIPC Club Website
+- Ongoing project
+- Built with HTML, CSS, JavaScript, and PHP
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahi-sadat\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahi-sadat&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahi-sadat\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahi-sadat&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌱 Currently Learning
 
-* Machine Learning
-* Data Structures & Algorithms
-* Backend Development
+- Machine Learning
+- Data Structures and Algorithms
+- Backend Development
 
 ---
 
 ## 📫 Connect With Me
 
-💼 GitHub: https://github.com/rahi-sadat
-✉️ Email: [rahisadat7@gmail.com](mailto:rahisadat7@gmail.com)
+- GitHub: [rahi-sadat](https://github.com/rahi-sadat)
+- Email: [rahisadat7@gmail.com](mailto:rahisadat7@gmail.com)
 
 ---
 
-⭐ *"Code, learn, and improve every day."*
-
+⭐ *Code, learn, and improve every day.*
